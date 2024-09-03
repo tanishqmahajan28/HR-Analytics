@@ -20,7 +20,7 @@ Tableau: Used for creating the interactive dashboard and visualizations.
 
 ## Getting Started
 To view the dashboard:
-  1. Download and install Tableau Public.
+  1. Download and install [Tableau Public](https://public.tableau.com/en-us/s/download).
   2. Download the .twbx file from this repository.
   3. Open the .twbx file using Tableau Public.
 

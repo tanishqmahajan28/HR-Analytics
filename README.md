@@ -32,4 +32,4 @@ This dashboard can be used by:
 - **Company Executives:** To gain insights into the overall health of the workforce and make data-driven decisions.
 
 ## Contact
-For any queries or suggestions, please contact [Tanishq Mahajan](mailto:trmahajan28@gmail.com).
+For any queries or suggestions, please contact Tanishq Mahajan at [trmahajan28@gmail.com](mailto:trmahajan28@gmail.com).
